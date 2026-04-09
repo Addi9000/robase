@@ -11,12 +11,12 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-2563EB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-1E3A8A?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2.1.0-2563EB?style=for-the-badge)](https://github.com/Addi9000/robase)
-[![Website](https://img.shields.io/badge/Website-robase.pro-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robase.pro)
+[![Website](https://img.shields.io/badge/Website-robase.app-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robase.app)
 [![Stars](https://img.shields.io/github/stars/Addi9000/robase?style=for-the-badge&color=2563EB&logo=github)](https://github.com/Addi9000/robase/stargazers)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=60A5FA&center=true&vCenter=true&width=700&lines=pip+install+robase-utilities" alt="Install SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=60A5FA&center=true&vCenter=true&width=700&lines=pip+install+robase" alt="Install SVG" />
 
 </div>
 
@@ -29,9 +29,9 @@
 </div>
 
 ```bash
-pip install robase-utilities
-pip install "robase-utilities[async]"   # async support via aiohttp
-pip install "robase-utilities[all]"     # everything + test tools
+pip install robase
+pip install "robase[async]"   # async support via aiohttp
+pip install "robase[all]"     # everything + test tools
 ```
 
 ---
@@ -82,7 +82,7 @@ robase
  |  _ < (_) | |_) | (_| \__ \  __/
  |_| \_\___/|_.__/ \__,_|___/\___|
 
-  robase v2.1.0  —  robase.pro  —  type 'help' to begin
+  robase v2.1.0  —  robase.app  —  type 'help' to begin
 
 » start 156
 » auth
@@ -607,7 +607,7 @@ Full license: [LICENSE](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=140&section=footer" width="100%"/>
 
-**[robase.pro](https://robase.pro)** &nbsp;·&nbsp; **[GitHub](https://github.com/Addi9000/robase)** &nbsp;·&nbsp; **[Issues](https://github.com/Addi9000/robase/issues)**
+**[robase.app](https://robase.app)** &nbsp;·&nbsp; **[GitHub](https://github.com/Addi9000/robase)** &nbsp;·&nbsp; **[Issues](https://github.com/Addi9000/robase/issues)**
 
 *Built with ❤️ for the Roblox developer community*
 
