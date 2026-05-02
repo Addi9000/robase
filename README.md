@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=220&section=header&text=rogiant&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=The%20Most%20Powerful%20Python%20SDK%20for%20the%20Roblox%20API&descAlignY=62&descAlign=50&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=280&section=header&text=rogiant&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=The%20Most%20Powerful%20Python%20SDK%20for%20the%20Roblox%20API&descAlignY=62&descAlign=50&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -9,8 +9,8 @@
 <br/><br/>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-2563EB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-1E3A8A?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.1.0-2563EB?style=for-the-badge)](https://github.com/Addi9000/rogiant)
+[![License](https://img.shields.io/badge/License-MIT-1E3A8A?style=for-the-badge)](https://github.com/Addi9000/rogiant/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/Version-2.1.0-2563EB?style=for-the-badge)](https://github.com/Addi9000/rogiant/releases)
 [![Website](https://img.shields.io/badge/Website-rogiant.com-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rogiant.com)
 [![Stars](https://img.shields.io/github/stars/Addi9000/rogiant?style=for-the-badge&color=2563EB&logo=github)](https://github.com/Addi9000/rogiant/stargazers)
 
